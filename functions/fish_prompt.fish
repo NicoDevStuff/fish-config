@@ -1,0 +1,1 @@
+/home/nico/.local/share/omf/themes/sashimi/fish_prompt.fish
