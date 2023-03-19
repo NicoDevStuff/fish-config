@@ -58,9 +58,6 @@ alias cat='bat'
 # changing 'htop' to 'btop' so it looks good
 alias htop='btop -p 0'
 
-# changing 'grep' to 'ripgrep' for dat speed
-alias grep='rg'
-
 # rickroll
 alias rr='curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
 
