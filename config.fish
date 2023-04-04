@@ -64,6 +64,5 @@ alias rr='curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/mas
 # set 'python' to 'python3'
 alias python='python3'
 
-# starship prompt
-# starship init fish | source
+starship init fish | source
 #########################################################################################
